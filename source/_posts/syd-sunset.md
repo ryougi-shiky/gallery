@@ -5,4 +5,4 @@ tags:
 cover: /img/syd_sunset.jpg
 ---
 
-I ❤️ Sydney
+I ❤️ Sydney ~
